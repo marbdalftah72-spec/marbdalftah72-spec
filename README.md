@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-# 🌟 Ammar Abdelfattah Jouda Saleh
+# ðŸŒŸ Ammar Abdelfattah Jouda Saleh
 ### Artificial Intelligence Engineering Student | Systems & Intelligent Algorithms Practitioner
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marbdalftah72-spec)
@@ -15,16 +15,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### ðŸ‘¨â€ðŸ’» About Me
 
-- 🎓 **Undergraduate Artificial Intelligence Engineering Student** at **Faculty of Engineering — New Ismailia National University (NINU)**.
-- 🔬 Focused on **Machine Learning**, **Deep Learning**, **Computer Vision Pipelines**, and **Computer Architecture**.
-- 🛠️ Hands-on experience spanning from low-level **CPU hardware logic design (RTL / HCU)** and **enterprise C++ systems** up to modern **Deep Neural Networks (CNNs, LSTMs, Transformers)** and **Reinforcement Learning (DQN)**.
-- 🚀 Passionate about building evidence-grounded AI engines, data pipelines, and reproducible engineering benchmarks.
+- ðŸŽ“ **Undergraduate Artificial Intelligence Engineering Student** at **Faculty of Engineering â€” New Ismailia National University (NINU)**.
+- ðŸ”¬ Focused on **Machine Learning**, **Deep Learning**, **Computer Vision Pipelines**, and **Computer Architecture**.
+- ðŸ› ï¸ Hands-on experience spanning from low-level **CPU hardware logic design (RTL / HCU)** and **enterprise C++ systems** up to modern **Deep Neural Networks (CNNs, LSTMs, Transformers)** and **Reinforcement Learning (DQN)**.
+- ðŸš€ Passionate about building evidence-grounded AI engines, data pipelines, and reproducible engineering benchmarks.
 
 ---
 
-### 🛠️ Technical Skills & Tooling
+### ðŸ› ï¸ Technical Skills & Tooling
 
 <div align="center">
 
@@ -42,18 +42,18 @@
 
 ---
 
-### 📂 Featured Open-Source Projects (Curated from CV)
+### ðŸ“‚ Featured Open-Source Projects (Curated from CV)
 
-#### 🤖 Machine Learning & Deep Learning
+#### ðŸ¤– Machine Learning & Deep Learning
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**Cracked Surface Classification**](https://github.com/marbdalftah72-spec/Neural-Network) | Civil infrastructure health monitoring benchmarking FFNN, BiLSTM, CNN & MobileNetV2 (>99% AUC). | `PyTorch`, `Torchvision`, `OpenCV` |
-| [**Advanced ML & Reinforcement Learning Suite**](https://github.com/marbdalftah72-spec/ML-task) | Supervised churn benchmarking, tabular FrozenLake Q-learning, and Deep Q-Networks (DQN). | `Scikit-Learn`, `Gymnasium`, `PyTorch` |
+| [**Advanced ML & Reinforcement Learning Suite**](https://github.com/marbdalftah72-spec/Advanced-Machine-Learning-Suite) | Supervised churn benchmarking, tabular FrozenLake Q-learning, and Deep Q-Networks (DQN). | `Scikit-Learn`, `Gymnasium`, `PyTorch` |
 | [**Digital Image Processing Pipeline**](https://github.com/marbdalftah72-spec/CNN) | Modular 6-stage computer vision suite covering Fourier 2D FFT, spatial kernels, CLAHE, and automated defect profiling. | `OpenCV`, `NumPy`, `SciPy` |
 | [**Statistical Data Analysis & EDA**](https://github.com/marbdalftah72-spec/Statistical-Data-Analysis-Python) | Rigorous statistical hypothesis testing, parametric/non-parametric tests, and distribution analysis on Kaggle datasets. | `Python`, `Pandas`, `SciPy`, `Seaborn` |
 | [**AI Search Algorithms & Pathfinding**](https://github.com/marbdalftah72-spec/AI-Search-Algorithms-Pathfinding) | State-space graph traversal and pathfinding comparing BFS, DFS, UCS, Greedy, and A* Search. | `Python`, `Algorithms` |
 
-#### 💻 Computer Architecture, Systems & Embedded Engineering
+#### ðŸ’» Computer Architecture, Systems & Embedded Engineering
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**16-bit Basic Computer with Hardwired CPU**](https://github.com/marbdalftah72-spec/16bit-Basic-Computer-Hardwired-CPU) | Complete 16-bit processor with Hardwired Control Unit (HCU), ALU, Common Bus, and 1024-word memory. | `Logisim-Evolution`, `RTL Design` |
@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### ðŸ“Š GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marbdalftah72-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -77,3 +77,4 @@
 <p align="center">
   <i>"Driven to bridge the gap between low-level hardware architectures and high-level artificial intelligence."</i>
 </p>
+
