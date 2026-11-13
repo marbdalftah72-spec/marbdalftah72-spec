@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌟 Ammar Abdelfattah Jouda Saleh
-### Computer Engineering Student | AI & Machine Learning Practitioner
+### Artificial Intelligence Engineering Student | Systems & Intelligent Algorithms Practitioner
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marbdalftah72-spec)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marbdalftah72@gmail.com)
@@ -17,38 +17,51 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Undergraduate Computer / Systems Engineering Student** at **Faculty of Engineering — New Ismailia National University (NINU)**.
-- 🔬 Focused on **Machine Learning**, **Deep Learning**, and **Computer Vision Pipelines**.
-- 🛠️ Experienced in training custom neural architectures (FFNN, BiLSTM, CNNs, Transfer Learning) and Reinforcement Learning agents (Tabular Q-Learning, DQN).
-- 🚀 Passionate about building evidence-grounded AI engines, data pipelines, and reproducible machine learning benchmarks.
+- 🎓 **Undergraduate Artificial Intelligence Engineering Student** at **Faculty of Engineering — New Ismailia National University (NINU)**.
+- 🔬 Focused on **Machine Learning**, **Deep Learning**, **Computer Vision Pipelines**, and **Computer Architecture**.
+- 🛠️ Hands-on experience spanning from low-level **CPU hardware logic design (RTL / HCU)** and **enterprise C++ systems** up to modern **Deep Neural Networks (CNNs, LSTMs, Transformers)** and **Reinforcement Learning (DQN)**.
+- 🚀 Passionate about building evidence-grounded AI engines, data pipelines, and reproducible engineering benchmarks.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Technical Skills & Tooling
 
 <div align="center">
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | `Python`, `C++`, `SQL`, `Bash` |
-| **Machine Learning** | `Scikit-Learn`, `NumPy`, `Pandas`, `SciPy` |
+| **Languages** | `Python`, `C++ (OOP & Data Structures)`, `SQL`, `Bash`, `RTL / Micro-operations` |
+| **Machine Learning** | `Scikit-Learn`, `NumPy`, `Pandas`, `SciPy`, `Statsmodels` |
 | **Deep Learning** | `PyTorch`, `Torchvision`, `TensorFlow / Keras` |
-| **Computer Vision** | `OpenCV`, `Digital Image Processing (FFT, Spatial Filters, Morphology)` |
-| **Reinforcement Learning** | `Gymnasium`, `DQN (Replay Buffer & Target Networks)`, `Q-Learning` |
+| **Computer Vision** | `OpenCV`, `Digital Image Processing (2D FFT, Spatial Kernels, CLAHE, Morphology)` |
+| **Hardware & Architecture** | `Logisim-Evolution`, `CPU Design (HCU, ALU, Common Bus)`, `Analog Circuits (Op-Amps)` |
+| **Networking & Embedded** | `Cisco Packet Tracer (OSPF, VLANs, STP)`, `Arduino / Microcontrollers`, `Sensors (Ultrasonic, PIR)` |
 | **Development Tools** | `Git`, `GitHub`, `Jupyter Lab`, `VS Code`, `Linux` |
 
 </div>
 
 ---
 
-### 📂 Featured Open-Source Projects
+### 📂 Featured Open-Source Projects (Curated from CV)
 
-| Project | Highlights | Tech Stack |
+#### 🤖 Machine Learning & Deep Learning
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Cracked Surface Classification**](https://github.com/marbdalftah72-spec/Neural-Network) | Deep learning civil infrastructure health monitoring benchmarking FFNN, BiLSTM, CNN & MobileNetV2 (>99% AUC). | `PyTorch`, `Torchvision`, `OpenCV` |
+| [**Cracked Surface Classification**](https://github.com/marbdalftah72-spec/Neural-Network) | Civil infrastructure health monitoring benchmarking FFNN, BiLSTM, CNN & MobileNetV2 (>99% AUC). | `PyTorch`, `Torchvision`, `OpenCV` |
+| [**Advanced ML & Reinforcement Learning Suite**](https://github.com/marbdalftah72-spec/ML-task) | Supervised churn benchmarking, tabular FrozenLake Q-learning, and Deep Q-Networks (DQN). | `Scikit-Learn`, `Gymnasium`, `PyTorch` |
 | [**Digital Image Processing Pipeline**](https://github.com/marbdalftah72-spec/CNN) | Modular 6-stage computer vision suite covering Fourier 2D FFT, spatial kernels, CLAHE, and automated defect profiling. | `OpenCV`, `NumPy`, `SciPy` |
-| [**Advanced ML & Reinforcement Learning Suite**](https://github.com/marbdalftah72-spec/ML-task) | Supervised churn benchmarking, finite MDP FrozenLake Q-learning, and Deep Q-Networks (DQN). | `Scikit-Learn`, `Gymnasium`, `PyTorch` |
-| [**House Price Valuation Analysis**](https://github.com/marbdalftah72-spec/-Project-Report) | Exploratory data analysis, regression benchmarking, and predictive housing price forecasting. | `Pandas`, `Matplotlib`, `Seaborn` |
+| [**Statistical Data Analysis & EDA**](https://github.com/marbdalftah72-spec/Statistical-Data-Analysis-Python) | Rigorous statistical hypothesis testing, parametric/non-parametric tests, and distribution analysis on Kaggle datasets. | `Python`, `Pandas`, `SciPy`, `Seaborn` |
+| [**AI Search Algorithms & Pathfinding**](https://github.com/marbdalftah72-spec/AI-Search-Algorithms-Pathfinding) | State-space graph traversal and pathfinding comparing BFS, DFS, UCS, Greedy, and A* Search. | `Python`, `Algorithms` |
+
+#### 💻 Computer Architecture, Systems & Embedded Engineering
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**16-bit Basic Computer with Hardwired CPU**](https://github.com/marbdalftah72-spec/16bit-Basic-Computer-Hardwired-CPU) | Complete 16-bit processor with Hardwired Control Unit (HCU), ALU, Common Bus, and 1024-word memory. | `Logisim-Evolution`, `RTL Design` |
+| [**Supermarket Management System**](https://github.com/marbdalftah72-spec/Supermarket-Management-System-CPP) | Enterprise-grade POS, inventory ledger, and billing system implementing advanced C++ OOP and file persistence. | `C++`, `OOP`, `Data Structures` |
+| [**Pharmacy Dispensary Management System**](https://github.com/marbdalftah72-spec/Pharmacy-Management-System-CPP) | Healthcare dispensary system featuring prescription verification, FIFO batch tracking, and allergy checks. | `C++`, `Data Structures` |
+| [**Enterprise Campus Network Architecture**](https://github.com/marbdalftah72-spec/Enterprise-Network-Design-Cisco-Packet-Tracer) | 3-tier hierarchical enterprise network with OSPFv2, VLANs, EtherChannel, NAT, and port security. | `Cisco Packet Tracer`, `Networking` |
+| [**Automatic Sensor Gate Barrier System**](https://github.com/marbdalftah72-spec/Automatic-Sensor-Gate-Embedded-System) | Smart barrier gate with ultrasonic distance profiling, PIR motion detection, and servo motor control. | `Embedded C/C++`, `Sensors` |
+| [**Dual-Sign Op-Amp Summing Amplifier**](https://github.com/marbdalftah72-spec/Analog-Electronics-Summing-Amplifier) | Analog electronic circuit for simultaneous positive and negative voltage addition and CMRR verification. | `Analog Circuits`, `Op-Amps` |
 
 ---
 
@@ -62,5 +75,5 @@
 ---
 
 <p align="center">
-  <i>"Passionate about applying intelligent algorithms to solve complex real-world engineering challenges."</i>
+  <i>"Driven to bridge the gap between low-level hardware architectures and high-level artificial intelligence."</i>
 </p>
